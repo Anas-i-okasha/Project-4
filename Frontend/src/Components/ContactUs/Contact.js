@@ -72,3 +72,4 @@ import Navbar from './Navbar'
     )
 }
 export default  Contact;
+
